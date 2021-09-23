@@ -1,0 +1,39 @@
+
+#avatar{
+  border-radius: 50%;
+  width: 20%;
+  height: 20%;
+  transition: 0.5;
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+.home{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-image: url('/img/background.jpg');
+  margin: -0.6%;
+}
+.site_title{
+  font-size: 60px;
+}
+.site_name{
+  color: gray;
+  font-size: 50px;
+  font-family: 'Raleway',sans-serif;
+  font-weight: 100;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 60px;
+  margin-top: 30px;
+}
+.site_slogan{
+  font-size: 30px;
+  color: gray;
+  font-family: 'Raleway',sans-serif;
+  font-weight: 100;
+  text-align: center;
+  line-height: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
